@@ -1,0 +1,11 @@
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\bin\Debug\Typing Game.exe.config
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\bin\Debug\Typing Game.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\bin\Debug\Typing Game.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing Game.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing_Game.Form1.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing_Game.Properties.Resources.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing Game.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing Game.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing Game.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing Game.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab11\Typing Game\obj\Debug\Typing Game.exe.config

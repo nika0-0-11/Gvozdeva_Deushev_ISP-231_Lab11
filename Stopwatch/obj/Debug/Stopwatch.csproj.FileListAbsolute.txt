@@ -1,0 +1,11 @@
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Stopwatch\obj\Debug\Stopwatch.exe.config

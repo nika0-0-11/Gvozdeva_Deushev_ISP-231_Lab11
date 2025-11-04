@@ -1,0 +1,11 @@
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\bin\Debug\Imagy_gallery.exe.config
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\bin\Debug\Imagy_gallery.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\bin\Debug\Imagy_gallery.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.Form1.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.Properties.Resources.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Imagy_gallery\obj\Debug\Imagy_gallery.exe.config
